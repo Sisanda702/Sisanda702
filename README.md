@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sisanda Soyikwa.
 - 👀 I’m interested in learning programming and i am passionate about it.
-- 🌱 I’m currently learning doing my advanced diploma in ICT application development.
+- 🌱 I’m currently learning my advanced diploma in ICT application development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via email @ sisandasoyikwa702@gmail.com
 
